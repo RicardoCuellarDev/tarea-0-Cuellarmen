@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Prueba 1",
+      "setup": "",
+      "run": "python hello.py",
+      "input": "",
+      "output": "Hola Mundo",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "prueba 2",
+      "setup": "",
+      "run": "python hello.py",
+      "input": "",
+      "output": "\"Hola Ricardo\"",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
